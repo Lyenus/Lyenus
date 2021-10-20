@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lyenus
+- 👀 I’m interested in programming and IT in general
+- 🌱 I’m currently learning Python
+- 📫 My Discord tag is Lyenus#8254 and my Twitter is @lyenuswastaken
